@@ -10,24 +10,24 @@ This is a collection of scripts and solutions I found, mainly so I can keep them
 4. If it gets stuck, refresh the browser and repeat as many times as you need
 
 ## Delete likes (unlike) 
-Open your profile's "Likes" tab and paste this script in the Console 
+Open your profile's "Likes" tab and paste [this script](twitter-unlike-script) script in the Console 
 
-[original gist and discussion](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) 
+- [original gist and discussion](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) 
 
 NB: This script will unlike (remove "hearts") from your liked tweets but it will not remove the actual tweets themselves, as far as I can tell. 
 
 ### Alternative unlike script 
-[see here](https://github.com/lukejones/delete-twitter-likes/blob/master/script.js) 
+- [see here](https://github.com/lukejones/delete-twitter-likes/blob/master/script.js) 
 
 ## Unfollow and/or remove followers 
-Open the list of people you follow and paste this script in the Console 
+Open the list of people you follow and paste [this script](https://github.com/bpawel-bclub/twitter-unlike-unfollow-cleanup/blob/main/twitter-mass-unfollow) in the Console 
 
-[original script](https://github.com/canpurcek34/twitter-mass-actions/blob/main/twitter-mass-unfollow.js) 
+- [original script](https://github.com/canpurcek34/twitter-mass-actions/blob/main/twitter-mass-unfollow.js) 
 
 NB: Make sure to change the language to the one you use on Twitter, otherwise it won't work 
 
 ## Delete your tweets (and more) 
-Use [this app](https://tweetdelete.net/) 
+- use [this app](https://tweetdelete.net/) 
 
 ## URL shorteners 
 If Tweeter blocks a link to your mastodon instance you can use a URL shortener, e.g. [bit.ly](https://bitly.com/), [tinyurl](https://tinyurl.com/app), or other ones. 
